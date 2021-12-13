@@ -1,0 +1,36 @@
+{
+  "acceptInsecureCerts": true,
+  "browserName": "firefox",
+  "browserVersion": "95.0",
+  "moz:accessibilityChecks": false,
+  "moz:buildID": "20211129150630",
+  "moz:debuggerAddress": true,
+  "moz:firefoxOptions": {
+  },
+  "moz:geckodriverVersion": "0.30.0",
+  "moz:headless": false,
+  "moz:processID": 175,
+  "moz:profile": "\u002ftmp\u002frust_mozprofilepTW7eI",
+  "moz:shutdownTimeout": 60000,
+  "moz:useNonSpecCompliantPointerOrigin": false,
+  "moz:webdriverClick": true,
+  "pageLoadStrategy": "normal",
+  "platformName": "linux",
+  "platformVersion": "5.10.76-linuxkit",
+  "proxy": {
+  },
+  "se:cdp": "ws:\u002f\u002f172.20.0.5:4444\u002fsession\u002fe0e1c0a8-07b5-4437-99ff-f0c44df61a9f\u002fse\u002fcdp",
+  "se:cdpVersion": "85",
+  "se:recordVideo": true,
+  "se:vnc": "ws:\u002f\u002f172.20.0.5:4444\u002fsession\u002fe0e1c0a8-07b5-4437-99ff-f0c44df61a9f\u002fse\u002fvnc",
+  "se:vncEnabled": true,
+  "se:vncLocalAddress": "ws:\u002f\u002f172.20.0.5:7900",
+  "setWindowRect": true,
+  "strictFileInteractability": false,
+  "timeouts": {
+    "implicit": 0,
+    "pageLoad": 300000,
+    "script": 30000
+  },
+  "unhandledPromptBehavior": "dismiss and notify"
+}
