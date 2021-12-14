@@ -25,7 +25,7 @@ In addition, Selenium 4 Dynamic Grid used with Docker images for running of test
 
 ## 🚀 How to use
 
-- Install packages with  `docker-compose.yml` Compose file is located in `Selenium` directory.
+- Install packages with  `docker-compose.yml` Compose file is located in `project root` directory.
 - Open the `http://localhost:4444` in order to check grid is up or not.
 - 2 profiles are existing in project, first is a remote configuration, second is a local configuration. You can specify your option editing configuration with `spring.profiles.active=remote`
 
