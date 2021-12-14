@@ -13,7 +13,7 @@ In addition, Selenium 4 Dynamic Grid used with Docker images for running of test
 
 > [Further info about Selenium 4 Dynamic Grid](https://github.com/SeleniumHQ/docker-selenium#dynamic-grid-)
 
-- **Contributions are very Welcome 😇**
+- **Contributions are Welcome 😇**
 
 ## 🧑‍💻 Using Technologies
 
