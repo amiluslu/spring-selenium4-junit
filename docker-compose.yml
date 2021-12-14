@@ -3,8 +3,8 @@ services:
   node-docker:
     image: selenium/node-docker:4.1.0-20211209
     volumes:
-      - ./assets:/opt/selenium/assets
-      - ./NodeDocker/config.toml:/opt/bin/config.toml
+      - ./selenium/assets:/opt/selenium/assets
+      - ./selenium/NodeDocker/config.toml:/opt/bin/config.toml
     depends_on:
       - selenium-hub
     environment:
